@@ -1,0 +1,16 @@
+# Database and backups
+*.db
+*.db-wal
+*.db-shm
+*.db.backup-*
+
+# Generated artifacts
+tournament.html
+clue_vocab.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
