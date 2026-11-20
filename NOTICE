@@ -1,0 +1,8 @@
+code-names
+Copyright 2026 Bert Baumgaertner
+
+This repository is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Not covered by these licenses:
+
+- codenames-words.txt is the word list from the board game Codenames (Vlaada Chvatil, Czech Games Edition). It is not covered by this license. Codenames is a trademark of Czech Games Edition.
